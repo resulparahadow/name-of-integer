@@ -1,0 +1,18 @@
+{
+    "name": "resulparahadow/name-of-integer",
+    "description": "This package is for converting integer to its name",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ResulParahadow\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Resul Parahadov",
+            "email": "parahadovrp@gmail.com"
+        }
+    ],
+    "require": {}
+}
